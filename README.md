@@ -1,16 +1,27 @@
 ## Hi there 👋
 <details>
 <summary>:trophy: Github Stats</summary>
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=huangyukun26&show_icons=true&theme=tokyonight&line_height=27">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huangyukun26&theme=radical">
-</p>
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=huangyukun26&show_icons=true" />
+      </td>
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyukun26&layout=compact" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=huangyukun26&theme=github-compact&hide_border=true&area=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 </details>
 
 <details>
 <summary>:trophy: Things I code with</summary>
-<p align="center">
-<h2 align="center">Things I code with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <p align="center">
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -26,7 +37,9 @@
 
 
 
-Feel free to contact me :yum:
+Feel free to contact me :yum:  
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/huangyukun26/count.svg)th visitor
 <br><br>
 <a href="mailto:huangyukun@bjfu.edu.cn"><img src="https://img.shields.io/badge/Email-huangyukun%40bjfu.edu.cn-green"></a>
 
