@@ -5,7 +5,7 @@
   <table style="width:100%;">
     <tr>
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=huangyukun26&show_icons=true" />
+       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huangyukun26&show_icons=true&include_all_commits=true&&rank_icon=github" />
       </td>
       <td align="center">
         <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyukun26&layout=compact" />
