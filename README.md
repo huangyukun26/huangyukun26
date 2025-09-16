@@ -1,4 +1,35 @@
 ## Hi there 👋
+
+## My Featured Project
+
+### DSSG: Sparse Light Field-Guided 3D Gaussian Relighting with Depth-Semantic Optimization
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Project-DSSG-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Field-Computer%20Vision-purple?style=for-the-badge" />
+</div>
+
+**High-Quality Relightable 3D Scene Reconstruction**
+
+A novel relighting framework integrating depth-semantic optimization with sparse light field guidance for physically plausible 3D scene reconstruction.
+
+**Key Features:**
+- 🎯 **Depth-Semantic Optimization** - Dual-constraint mechanism using DPT and DINO-ViT
+- 🌟 **SLV-based Initialization** - Sparse Large Variance strategy for robust BRDF estimation  
+- ⚡ **Real-time Relighting** - High-quality dynamic relighting with reduced shadow errors
+
+
+<div align="center">
+  <a href="https://huangyukun26.github.io/DSSG-Project/">
+    <img src="https://img.shields.io/badge/🌐_Visit_Website-Online-green?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/huangyukun26/DSSG-Project">
+    <img src="https://img.shields.io/badge/📁_View_Code-GitHub-black?style=for-the-badge" />
+  </a>
+</div>
+
+---
+
 <details>
 <summary>:trophy: Github Stats</summary>
 <div align="center">
@@ -88,7 +119,7 @@ Lie to you, how could I know so much, just want to show off these badges
 
 Feel free to contact me :yum:  
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/huangyukun26/count.svg)th visitor
+
 <br><br>
 <a href="mailto:huangyukun@bjfu.edu.cn"><img src="https://img.shields.io/badge/Email-huangyukun%40bjfu.edu.cn-green"></a>
 
