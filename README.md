@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My Featured Project
+## My Recent Works
 
 ### DSSG: Sparse Light Field-Guided 3D Gaussian Relighting with Depth-Semantic Optimization
 
